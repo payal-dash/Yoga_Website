@@ -1,7 +1,3 @@
-/*! jQuery UI - v1.12.1 - 2020-03-17
-* http://jqueryui.com
-* Includes: widget.js, keycode.js, unique-id.js, widgets/accordion.js
-* Copyright jQuery Foundation and other contributors; Licensed MIT */
 
 (function( factory ) {
 	if ( typeof define === "function" && define.amd ) {
